@@ -1,6 +1,6 @@
 
    
-<h1 align="center" > @@ text in purple👋, I'm URINOV AZIZBEK</h1>
+<h1 align="center" color = 'red'> 👋, I'm URINOV AZIZBEK</h1>
 
 
 - 🌱 I’m currently learning **Deep Learning Models**
