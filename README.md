@@ -59,6 +59,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zero-suger/zero-suger/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/zero-suger/zero-suger/blob/output/github-contribution-grid-snake.gif)
 
 ###
