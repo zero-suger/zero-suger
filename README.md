@@ -59,6 +59,5 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/zero-suger/zero-suger/blob/output/github-contribution-grid-snake.gif)
 
 ###
