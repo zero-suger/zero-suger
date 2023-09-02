@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! I'm  AZIZ from UZB</h1>
+<h1 align="center">Hi 👋! I'm  AZIZBEK from UZB</h1>
 
 ###
 
