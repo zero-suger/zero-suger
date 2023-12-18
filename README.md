@@ -8,8 +8,6 @@
 
 ###
 
-<img align="right" height="155" src="https://media1.giphy.com/media/3cKaKpl2OzqpfSPdUF/200w.gif?cid=82a1493bui5sy5bcrvagmtjyshwgcbd882smzt9dtw8n2xm0"  />
-
 ###
 
 <div align="left">
@@ -59,6 +57,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/zero-suger/zero-suger/output/snake.svg" alt="Snake animation" />
 
 ###
